@@ -1,6 +1,6 @@
 # kora-edu
 
-Welcome to the GitHub repository for our educational startup focused on AI-generated question-answer systems. We are building advanced, adaptive AI tools to revolutionize learning through personalized question generation and intelligent answers. Our goal is to help educators, students, and institutions improve learning outcomes by leveraging cutting-edge natural language processing and AI technologies.
+We are building advanced, adaptive AI tools to revolutionize learning through personalized question generation and intelligent answers. Our goal is to help educators, students, and institutions improve learning outcomes by leveraging cutting-edge natural language processing and AI technologies.
 
 ## Mission
 
