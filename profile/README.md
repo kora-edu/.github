@@ -4,4 +4,4 @@ AI-powered LMS plugin using Retrieval Augmented Generation to localize learning.
 
 ## Contact
 
-For collaborations or inquiries, reach out at kahu@kora.ac or join our [Discord server](https://discord.gg/qwDQ5QKhcJ).
+For collaborations or inquiries, reach out at support@kora.ac or join our [Discord server](https://discord.gg/qwDQ5QKhcJ).
