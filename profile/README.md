@@ -1,6 +1,6 @@
 # kora-edu
 
-AI-powered LMS plugin using Retrieval Augmented Generation to localize learning. For more details, visit [blog.kora.ac](https://blog.kora.ac).
+An AI-powered LMS plugin using Retrieval Augmented Generation to localize learning. For more details, visit [blog.kora.ac](https://blog.kora.ac).
 
 ## Contact
 
